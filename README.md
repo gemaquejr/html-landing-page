@@ -24,7 +24,14 @@ Essa aplicação é uma Landing Page institucional, utilizando HTML, CSS e Javas
 
 ## :hammer_and_wrench: Para iniciar o projeto.
 
-Clone o repositório: git clone git@github.com:gemaquejr/html-landing-page.git
+Clone o repositório:
+
+   * `git clone git@github.com:gemaquejr/html-landing-page.git`.
+
+Entre na pasta do repositório que você acabou de clonar:
+   * `cd html-landing-page`
+
+Instale as dependências e inicialize o projeto:
 
 ### `npm install`
 
